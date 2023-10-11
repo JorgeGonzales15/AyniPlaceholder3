@@ -1,0 +1,31 @@
+{
+    "orders": [
+    {
+        "id":1,
+        "image_url":"https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/69d159ba-3e70-4401-8a16-3e1b821cbad2",
+        "name": "Tomate",
+        "description": "Deseo tomates de calidad para el próximo més",
+        "price": "15.50",
+        "date": "05/09/2023"
+        "quantity": "10 cajas de 10 unidades"
+    },
+    {
+        "id":2,
+        "image_url":"https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2916e98f-14ef-49eb-8674-4195d3a9277b",
+        "name": "Col",
+        "description": "Quiero cajas de col para vender",
+        "price": "13.00",
+        "date": "04/09/2023"
+        "quantity": "4 cajas de 40 unidades"
+    },
+    {
+        "id":3,
+        "image_url":"https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cb9902bb-a4d1-4095-9f03-5460fc29e486",
+        "name": "Lechuga",
+        "description": "Compro lechugas frescas para mi negocio",
+        "price": "35.50",
+        "date": "06/09/2023"
+        "quantity": "15 cajas"
+    }
+  ]
+}
