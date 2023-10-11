@@ -6,7 +6,7 @@
         "name": "Tomate",
         "description": "Deseo tomates de calidad para el próximo més",
         "price": "15.50",
-        "date": "05/09/2023"
+
         "quantity": "10 cajas de 10 unidades"
     },
     {
@@ -15,7 +15,7 @@
         "name": "Col",
         "description": "Quiero cajas de col para vender",
         "price": "13.00",
-        "date": "04/09/2023"
+
         "quantity": "4 cajas de 40 unidades"
     },
     {
@@ -24,7 +24,7 @@
         "name": "Lechuga",
         "description": "Compro lechugas frescas para mi negocio",
         "price": "35.50",
-        "date": "06/09/2023"
+
         "quantity": "15 cajas"
     }
   ]
